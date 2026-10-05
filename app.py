@@ -1,1 +1,1 @@
-print("Hello from sample project - Version 2") 
+print("Message from Main") 
