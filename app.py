@@ -1,1 +1,1 @@
-print("Final merged message")print("This change will be reverted") 
+print("Final merged message")
